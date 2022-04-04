@@ -317,5 +317,50 @@
         "country": "calvin klein",
         "employment": "",
         "skills": ""
+    },
+    {
+        "id": "G001",
+        "brand": "Guess",
+        "price": "975",
+        "size": "M",
+        "composition": "100% хлопок",
+        "detailsW1": "43",
+        "detailsW2": "48",
+        "detailsH": "70",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "G002",
+        "brand": "Guess",
+        "price": "825",
+        "size": "S",
+        "composition": "100% хлопок",
+        "detailsW1": "43",
+        "detailsW2": "48",
+        "detailsH": "70",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "G004",
+        "brand": "Guess",
+        "price": "875",
+        "size": "S, M",
+        "composition": "100% хлопок",
+        "detailsW1": "43",
+        "detailsW2": "48",
+        "detailsH": "70",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
     }
 ]
