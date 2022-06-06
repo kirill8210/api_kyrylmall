@@ -1,5 +1,39 @@
 [
     {
+        "id": "C041",
+        "brand": "Calvin Klein",
+        "price": "975",
+        "size": [
+            "S"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "43",
+        "detailsW2": "48",
+        "detailsH": "69",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "C042",
+        "brand": "Calvin Klein",
+        "price": "975",
+        "size": [
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "48",
+        "detailsW2": "56",
+        "detailsH": "72",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
         "id": "J054",
         "brand": "Jack Jones",
         "price": "425",
@@ -12,6 +46,44 @@
         "detailsW1": "42/43/45",
         "detailsW2": "48/51/53",
         "detailsH": "69/70/73",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "L015",
+        "brand": "Levis",
+        "price": "825",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "44/45/47",
+        "detailsW2": "50/53/57",
+        "detailsH": "70/71/71",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "L016",
+        "brand": "Levis",
+        "price": "825",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "44/45/47",
+        "detailsW2": "50/53/59",
+        "detailsH": "68/70/71",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -286,41 +358,6 @@
         "detailsW1": "42",
         "detailsW2": "45",
         "detailsH": "69",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C041",
-        "brand": "Calvin Klein",
-        "price": "975",
-        "size": [
-             "S"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "43",
-        "detailsW2": "48",
-        "detailsH": "69",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C042",
-        "brand": "Calvin Klein",
-        "price": "975",
-        "size": [
-            "M",
-            "L"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "45/48",
-        "detailsW2": "53/56",
-        "detailsH": "71/72",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -681,44 +718,6 @@
         "detailsW1": "42",
         "detailsW2": "49",
         "detailsH": "69",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "L015",
-        "brand": "Levis",
-        "price": "825",
-        "size": [
-            "S",
-            "M",
-            "L"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "44/45/47",
-        "detailsW2": "50/53/57",
-        "detailsH": "70/71/71",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "L016",
-        "brand": "Levis",
-        "price": "825",
-        "size": [
-            "S",
-            "M",
-            "L"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "44/45/47",
-        "detailsW2": "50/53/59",
-        "detailsH": "68/70/71",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
