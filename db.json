@@ -36,6 +36,76 @@
         "skills": ""
     },
     {
+        "id": "C051",
+        "brand": "Calvin Klein",
+        "price": "1075",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "42/44/48",
+        "detailsW2": "48/53/55",
+        "detailsH": "70/71/73",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "G001",
+        "brand": "Guess",
+        "price": "975",
+        "size": [
+            "M"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "46",
+        "detailsW2": "49",
+        "detailsH": "73",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "G002",
+        "brand": "Guess",
+        "price": "825",
+        "size": [
+            "S"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "45",
+        "detailsW2": "48",
+        "detailsH": "69",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "P016",
+        "brand": "Puma",
+        "price": "625",
+        "size": [
+            "M"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "50",
+        "detailsW2": "56",
+        "detailsH": "73",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
         "id": "J055",
         "brand": "Jack Jones",
         "price": "375",
@@ -53,67 +123,11 @@
         "skills": ""
     },
     {
-        "id": "J053",
-        "brand": "Jack Jones",
-        "price": "425",
-        "size": [
-            "S",
-            "M",
-            "L"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "42/45/46",
-        "detailsW2": "51/52/54",
-        "detailsH": "68/70/71",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "J051",
-        "brand": "Jack Jones",
-        "price": "425",
-        "size": [
-            "S",
-            "M",
-            "L"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "41/42/42",
-        "detailsW2": "46/48/49",
-        "detailsH": "67/69/72",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "J049",
-        "brand": "Jack Jones",
-        "price": "425",
-        "size": [
-            "M"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "42",
-        "detailsW2": "48",
-        "detailsH": "70",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "L015",
         "brand": "Levis",
         "price": "825",
         "size": [
             "S",
-            "M",
             "L"
         ],
         "composition": "100% хлопок",
@@ -156,6 +170,75 @@
         "detailsW1": "45",
         "detailsW2": "52",
         "detailsH": "71",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "C033",
+        "brand": "Calvin Klein",
+        "price": "925",
+        "size": [
+            "M"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "46",
+        "detailsW2": "52",
+        "detailsH": "73",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "C034",
+        "brand": "Calvin Klein",
+        "price": "825",
+        "size": [
+            "S",
+            "M"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "45/46",
+        "detailsW2": "50/53",
+        "detailsH": "69/72",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "C036",
+        "brand": "Calvin Klein",
+        "price": "825",
+        "size": [
+            "S"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "44",
+        "detailsW2": "47",
+        "detailsH": "69",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "C038",
+        "brand": "Calvin Klein",
+        "price": "975",
+        "size": [
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "47",
+        "detailsW2": "56",
+        "detailsH": "73",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -317,75 +400,6 @@
         "skills": ""
     },
     {
-        "id": "C033",
-        "brand": "Calvin Klein",
-        "price": "925",
-        "size": [
-             "M"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "46",
-        "detailsW2": "52",
-        "detailsH": "73",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C034",
-        "brand": "Calvin Klein",
-        "price": "825",
-        "size": [
-            "S",
-            "M"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "45/46",
-        "detailsW2": "50/53",
-        "detailsH": "69/72",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C036",
-        "brand": "Calvin Klein",
-        "price": "825",
-        "size": [
-             "S"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "44",
-        "detailsW2": "47",
-        "detailsH": "69",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C038",
-        "brand": "Calvin Klein",
-        "price": "975",
-        "size": [
-             "L"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "47",
-        "detailsW2": "56",
-        "detailsH": "73",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "C039",
         "brand": "Calvin Klein",
         "price": "775",
@@ -430,76 +444,6 @@
         "detailsW1": "49",
         "detailsW2": "55",
         "detailsH": "72",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C051",
-        "brand": "Calvin Klein",
-        "price": "1075",
-        "size": [
-            "S",
-            "M",
-            "L"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "42/44/48",
-        "detailsW2": "48/53/55",
-        "detailsH": "70/71/73",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "G001",
-        "brand": "Guess",
-        "price": "975",
-        "size": [
-             "M"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "46",
-        "detailsW2": "49",
-        "detailsH": "73",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "G002",
-        "brand": "Guess",
-        "price": "825",
-        "size": [
-             "S"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "45",
-        "detailsW2": "48",
-        "detailsH": "69",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "P016",
-        "brand": "Puma",
-        "price": "625",
-        "size": [
-             "M"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "50",
-        "detailsW2": "56",
-        "detailsH": "73",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -552,6 +496,61 @@
         "detailsW1": "46",
         "detailsW2": "54",
         "detailsH": "72",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "J053",
+        "brand": "Jack Jones",
+        "price": "425",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "42/45/46",
+        "detailsW2": "51/52/54",
+        "detailsH": "68/70/71",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "J051",
+        "brand": "Jack Jones",
+        "price": "425",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "41/42/42",
+        "detailsW2": "46/48/49",
+        "detailsH": "67/69/72",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "J049",
+        "brand": "Jack Jones",
+        "price": "425",
+        "size": [
+            "M"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "42",
+        "detailsW2": "48",
+        "detailsH": "70",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -1012,23 +1011,6 @@
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "47",
-        "detailsH": "68",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "J018",
-        "brand": "Jack Jones",
-        "price": "350",
-        "size": [
-            "S"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "42",
-        "detailsW2": "48",
         "detailsH": "68",
         "date": "30/03/2022",
         "employer": "HFLabs",
