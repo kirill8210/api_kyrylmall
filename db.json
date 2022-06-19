@@ -142,23 +142,6 @@
         "skills": ""
     },
     {
-        "id": "C004",
-        "brand": "Calvin Klein",
-        "price": "775",
-        "size": [
-             "M"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "45",
-        "detailsW2": "52",
-        "detailsH": "71",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "C033",
         "brand": "Calvin Klein",
         "price": "925",
@@ -194,23 +177,6 @@
         "skills": ""
     },
     {
-        "id": "C036",
-        "brand": "Calvin Klein",
-        "price": "825",
-        "size": [
-            "S"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "44",
-        "detailsW2": "47",
-        "detailsH": "69",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "C038",
         "brand": "Calvin Klein",
         "price": "975",
@@ -238,24 +204,6 @@
         "detailsW1": "43",
         "detailsW2": "47",
         "detailsH": "70",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C012",
-        "brand": "Calvin Klein",
-        "price": "775",
-        "size": [
-            "S",
-            "M"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "42/45",
-        "detailsW2": "48/52",
-        "detailsH": "69/71",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -341,23 +289,6 @@
         "detailsW1": "46",
         "detailsW2": "51",
         "detailsH": "71",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C028",
-        "brand": "Calvin Klein",
-        "price": "875",
-        "size": [
-             "M"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "45",
-        "detailsW2": "51",
-        "detailsH": "69",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
