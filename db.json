@@ -385,13 +385,12 @@
         "brand": "Levis",
         "price": "750",
         "size": [
-            "S",
-            "L"
+            "S"
         ],
         "composition": "100% хлопок",
-        "detailsW1": "41/46",
-        "detailsW2": "47/53",
-        "detailsH": "66/70",
+        "detailsW1": "41",
+        "detailsW2": "47",
+        "detailsH": "66",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -420,13 +419,12 @@
         "brand": "Jack Jones",
         "price": "425",
         "size": [
-            "M",
             "L"
         ],
         "composition": "100% хлопок",
-        "detailsW1": "45/46",
-        "detailsW2": "52/54",
-        "detailsH": "70/71",
+        "detailsW1": "46",
+        "detailsW2": "54",
+        "detailsH": "71",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -667,23 +665,6 @@
         "detailsW1": "40",
         "detailsW2": "45",
         "detailsH": "68",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "L012",
-        "brand": "Levis",
-        "price": "695",
-        "size": [
-            "S"
-        ],
-        "composition": "100% хлопок",
-        "detailsW1": "42",
-        "detailsW2": "49",
-        "detailsH": "69",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
