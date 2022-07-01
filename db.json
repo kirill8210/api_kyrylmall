@@ -978,5 +978,162 @@
         "country": "calvin klein",
         "employment": "",
         "skills": ""
+    },
+    {
+        "id": "C053",
+        "brand": "Calvin Klein",
+        "price": "26$",
+        "size": [
+            "S"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "",
+        "detailsW2": "",
+        "detailsH": "",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "C054",
+        "brand": "Calvin Klein",
+        "price": "26$",
+        "size": [
+            "S"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "",
+        "detailsW2": "",
+        "detailsH": "",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "C055",
+        "brand": "Calvin Klein",
+        "price": "31$",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "",
+        "detailsW2": "",
+        "detailsH": "",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "P019",
+        "brand": "Puma",
+        "price": "21$",
+        "size": [
+            "S",
+            "M"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "",
+        "detailsW2": "",
+        "detailsH": "",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "P020",
+        "brand": "Puma",
+        "price": "21$",
+        "size": [
+            "M",
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "",
+        "detailsW2": "",
+        "detailsH": "",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "P021",
+        "brand": "Puma",
+        "price": "21$",
+        "size": [
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "",
+        "detailsW2": "",
+        "detailsH": "",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "P022",
+        "brand": "Puma",
+        "price": "21$",
+        "size": [
+            "L"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "",
+        "detailsW2": "",
+        "detailsH": "",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "P023",
+        "brand": "Puma",
+        "price": "21$",
+        "size": [
+            "S"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "",
+        "detailsW2": "",
+        "detailsH": "",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "P024",
+        "brand": "Puma",
+        "price": "21$",
+        "size": [
+            "M"
+        ],
+        "composition": "100% хлопок",
+        "detailsW1": "",
+        "detailsW2": "",
+        "detailsH": "",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
     }
 ]
