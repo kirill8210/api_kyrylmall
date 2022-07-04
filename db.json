@@ -6,6 +6,7 @@
         "size": [
             "S"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "43",
         "detailsW2": "48",
@@ -25,6 +26,7 @@
             "M",
             "L"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "42/43/45",
         "detailsW2": "48/51/53",
@@ -44,6 +46,7 @@
             "M",
             "L"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "42/44/48",
         "detailsW2": "48/53/55",
@@ -61,6 +64,7 @@
         "size": [
             "M"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "46",
         "detailsW2": "49",
@@ -78,6 +82,7 @@
         "size": [
             "S"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "45",
         "detailsW2": "48",
@@ -95,6 +100,7 @@
         "size": [
             "S"
         ],
+        "color": "red",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "47",
@@ -113,6 +119,7 @@
             "S",
             "L"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "44/45/47",
         "detailsW2": "50/53/57",
@@ -131,6 +138,7 @@
             "M",
             "L"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "45/47",
         "detailsW2": "53/59",
@@ -148,6 +156,7 @@
         "size": [
             "M"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "46",
         "detailsW2": "52",
@@ -166,6 +175,7 @@
             "S",
             "M"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "45/46",
         "detailsW2": "50/53",
@@ -183,6 +193,7 @@
         "size": [
             "L"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "47",
         "detailsW2": "56",
@@ -200,6 +211,7 @@
         "size": [
              "S"
         ],
+        "color": "red",
         "composition": "100% хлопок",
         "detailsW1": "43",
         "detailsW2": "47",
@@ -217,6 +229,7 @@
         "size": [
              "M"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "45",
         "detailsW2": "50",
@@ -234,6 +247,7 @@
         "size": [
             "XS"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "46",
@@ -251,6 +265,7 @@
         "size": [
             "L"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "47",
         "detailsW2": "55",
@@ -268,6 +283,7 @@
         "size": [
              "M"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "46",
         "detailsW2": "51",
@@ -285,6 +301,7 @@
         "size": [
              "L"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "49",
         "detailsW2": "56",
@@ -302,6 +319,7 @@
         "size": [
              "S"
         ],
+        "color": "grey",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "49",
@@ -319,6 +337,7 @@
         "size": [
              "S"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "45",
@@ -336,6 +355,7 @@
         "size": [
              "L"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "49",
         "detailsW2": "55",
@@ -353,6 +373,7 @@
         "size": [
             "S"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "47",
@@ -370,6 +391,7 @@
         "size": [
             "L"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "46",
         "detailsW2": "54",
@@ -387,6 +409,7 @@
         "size": [
             "L"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "46",
         "detailsW2": "54",
@@ -406,6 +429,7 @@
             "M",
             "L"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "41/42/42",
         "detailsW2": "46/48/49",
@@ -423,6 +447,7 @@
         "size": [
             "M"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "48",
@@ -440,6 +465,7 @@
         "size": [
              "M"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "49",
@@ -457,6 +483,7 @@
         "size": [
              "S"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "46",
@@ -474,6 +501,7 @@
         "size": [
             "S"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "46",
@@ -491,6 +519,7 @@
         "size": [
             "S"
         ],
+        "color": "red",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "49",
@@ -508,6 +537,7 @@
         "size": [
             "L"
         ],
+        "color": "red",
         "composition": "100% хлопок",
         "detailsW1": "46",
         "detailsW2": "55",
@@ -525,6 +555,7 @@
         "size": [
             "M"
         ],
+        "color": "grey",
         "composition": "100% хлопок",
         "detailsW1": "43",
         "detailsW2": "50",
@@ -542,6 +573,7 @@
         "size": [
             "S"
         ],
+        "color": "grey",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "48",
@@ -559,6 +591,7 @@
         "size": [
             "S"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "45",
         "detailsW2": "53",
@@ -576,6 +609,7 @@
         "size": [
             "S"
         ],
+        "color": "red",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "48",
@@ -593,6 +627,7 @@
         "size": [
             "L"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "46",
         "detailsW2": "55",
@@ -610,6 +645,7 @@
         "size": [
             "S"
         ],
+        "color": "grey",
         "composition": "100% хлопок",
         "detailsW1": "40",
         "detailsW2": "45",
@@ -629,6 +665,7 @@
             "M",
             "L"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "41/42/44",
         "detailsW2": "47/49/55",
@@ -646,6 +683,7 @@
         "size": [
             "S"
         ],
+        "color": "blue",
         "composition": "60%/40% полиестр/хлопок",
         "detailsW1": "43",
         "detailsW2": "49",
@@ -663,6 +701,7 @@
         "size": [
             "M"
         ],
+        "color": "yellow",
         "composition": "100% хлопок",
         "detailsW1": "40",
         "detailsW2": "47",
@@ -680,6 +719,7 @@
         "size": [
             "S"
         ],
+        "color": "grey",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "47",
@@ -697,6 +737,7 @@
         "size": [
             "S"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "48",
@@ -714,6 +755,7 @@
         "size": [
             "M"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "40",
         "detailsW2": "46",
@@ -731,6 +773,7 @@
         "size": [
             "M"
         ],
+        "color": "red",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "49",
@@ -748,6 +791,7 @@
         "size": [
             "M"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "48",
@@ -765,6 +809,7 @@
         "size": [
             "M"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "48",
@@ -782,6 +827,7 @@
         "size": [
             "M"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "47",
@@ -799,6 +845,7 @@
         "size": [
             "M"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "51",
@@ -816,6 +863,7 @@
         "size": [
             "S"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "38",
         "detailsW2": "44",
@@ -833,6 +881,7 @@
         "size": [
             "S"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "39",
         "detailsW2": "45",
@@ -850,6 +899,7 @@
         "size": [
             "S"
         ],
+        "color": "grey",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "47",
@@ -867,6 +917,7 @@
         "size": [
             "S"
         ],
+        "color": "orange",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "48",
@@ -884,6 +935,7 @@
         "size": [
             "M"
         ],
+        "color": "grey",
         "composition": "100% хлопок",
         "detailsW1": "44",
         "detailsW2": "51",
@@ -901,6 +953,7 @@
         "size": [
             "S"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "47",
@@ -918,6 +971,7 @@
         "size": [
             "S"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "41",
         "detailsW2": "47",
@@ -935,6 +989,7 @@
         "size": [
             "S"
         ],
+        "color": "orange",
         "composition": "100% хлопок",
         "detailsW1": "43",
         "detailsW2": "49",
@@ -952,6 +1007,7 @@
         "size": [
             "M"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "43",
         "detailsW2": "51",
@@ -969,6 +1025,7 @@
         "size": [
             "S"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "42",
         "detailsW2": "49",
@@ -986,6 +1043,7 @@
         "size": [
             "S"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "",
         "detailsW2": "",
@@ -1003,6 +1061,7 @@
         "size": [
             "S"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "",
         "detailsW2": "",
@@ -1022,6 +1081,7 @@
             "M",
             "L"
         ],
+        "color": "blue",
         "composition": "100% хлопок",
         "detailsW1": "",
         "detailsW2": "",
@@ -1040,6 +1100,7 @@
             "S",
             "M"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "",
         "detailsW2": "",
@@ -1058,6 +1119,7 @@
             "M",
             "L"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "",
         "detailsW2": "",
@@ -1075,6 +1137,7 @@
         "size": [
             "L"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "",
         "detailsW2": "",
@@ -1092,6 +1155,7 @@
         "size": [
             "L"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "",
         "detailsW2": "",
@@ -1109,6 +1173,7 @@
         "size": [
             "S"
         ],
+        "color": "white",
         "composition": "100% хлопок",
         "detailsW1": "",
         "detailsW2": "",
@@ -1126,6 +1191,7 @@
         "size": [
             "M"
         ],
+        "color": "black",
         "composition": "100% хлопок",
         "detailsW1": "",
         "detailsW2": "",
