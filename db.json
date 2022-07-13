@@ -58,24 +58,6 @@
         "skills": ""
     },
     {
-        "id": "G001",
-        "brand": "Guess",
-        "price": 975,
-        "size": [
-            "M"
-        ],
-        "color": "white",
-        "composition": "100% хлопок",
-        "detailsW1": "46",
-        "detailsW2": "49",
-        "detailsH": "73",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "G002",
         "brand": "Guess",
         "price": 825,
@@ -1039,7 +1021,7 @@
     {
         "id": "C053",
         "brand": "Calvin Klein",
-        "price": 26,
+        "price": "26$",
         "size": [
             "S"
         ],
@@ -1057,7 +1039,7 @@
     {
         "id": "C054",
         "brand": "Calvin Klein",
-        "price": 26,
+        "price": "26$",
         "size": [
             "S"
         ],
@@ -1075,7 +1057,7 @@
     {
         "id": "C055",
         "brand": "Calvin Klein",
-        "price": 31,
+        "price": "31$",
         "size": [
             "S",
             "M",
@@ -1095,7 +1077,7 @@
     {
         "id": "P019",
         "brand": "Puma",
-        "price": 21,
+        "price": "21$",
         "size": [
             "S",
             "M"
@@ -1114,7 +1096,7 @@
     {
         "id": "P020",
         "brand": "Puma",
-        "price": 21,
+        "price": "21$",
         "size": [
             "M",
             "L"
@@ -1133,7 +1115,7 @@
     {
         "id": "P021",
         "brand": "Puma",
-        "price": 21,
+        "price": "21$",
         "size": [
             "L"
         ],
@@ -1151,7 +1133,7 @@
     {
         "id": "P022",
         "brand": "Puma",
-        "price": 21,
+        "price": "21$",
         "size": [
             "L"
         ],
@@ -1169,7 +1151,7 @@
     {
         "id": "P023",
         "brand": "Puma",
-        "price": 21,
+        "price": "21$",
         "size": [
             "S"
         ],
