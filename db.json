@@ -1187,7 +1187,7 @@
     {
         "id": "P024",
         "brand": "Puma",
-        "price": 21,
+        "price": "21$",
         "size": [
             "M"
         ],
