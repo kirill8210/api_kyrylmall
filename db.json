@@ -18,6 +18,81 @@
         "skills": ""
     },
     {
+        "id": "C053",
+        "brand": "Calvin Klein",
+        "price": "925",
+        "size": [
+            "S"
+        ],
+        "color": "white",
+        "composition": "100% хлопок",
+        "detailsW1": "42",
+        "detailsW2": "50",
+        "detailsH": "70",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "C054",
+        "brand": "Calvin Klein",
+        "price": "925",
+        "size": [
+            "S"
+        ],
+        "color": "black",
+        "composition": "100% хлопок",
+        "detailsW1": "42",
+        "detailsW2": "50",
+        "detailsH": "68",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "C055",
+        "brand": "Calvin Klein",
+        "price": "1075",
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": "blue",
+        "composition": "100% хлопок",
+        "detailsW1": "41/44/47",
+        "detailsW2": "47/50/55",
+        "detailsH": "69/71/74",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "P019",
+        "brand": "Puma",
+        "price": "725",
+        "size": [
+            "S",
+            "M"
+        ],
+        "color": "black",
+        "composition": "100% хлопок",
+        "detailsW1": "42/44",
+        "detailsW2": "48/51",
+        "detailsH": "71/72",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
         "id": "J054",
         "brand": "Jack Jones",
         "price": 425,
@@ -785,24 +860,6 @@
         "skills": ""
     },
     {
-        "id": "J033",
-        "brand": "Jack Jones",
-        "price": 350,
-        "size": [
-            "M"
-        ],
-        "color": "black",
-        "composition": "100% хлопок",
-        "detailsW1": "42",
-        "detailsW2": "48",
-        "detailsH": "68",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "J032",
         "brand": "Jack Jones",
         "price": 350,
@@ -983,24 +1040,6 @@
         "skills": ""
     },
     {
-        "id": "J004",
-        "brand": "Jack Jones",
-        "price": 375,
-        "size": [
-            "M"
-        ],
-        "color": "black",
-        "composition": "100% хлопок",
-        "detailsW1": "43",
-        "detailsW2": "51",
-        "detailsH": "70",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "J003",
         "brand": "Jack Jones",
         "price": 375,
@@ -1019,93 +1058,18 @@
         "skills": ""
     },
     {
-        "id": "C053",
-        "brand": "Calvin Klein",
-        "price": "26$",
-        "size": [
-            "S"
-        ],
-        "color": "white",
-        "composition": "100% хлопок",
-        "detailsW1": "",
-        "detailsW2": "",
-        "detailsH": "",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C054",
-        "brand": "Calvin Klein",
-        "price": "26$",
-        "size": [
-            "S"
-        ],
-        "color": "black",
-        "composition": "100% хлопок",
-        "detailsW1": "",
-        "detailsW2": "",
-        "detailsH": "",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "C055",
-        "brand": "Calvin Klein",
-        "price": "31$",
-        "size": [
-            "S",
-            "M",
-            "L"
-        ],
-        "color": "blue",
-        "composition": "100% хлопок",
-        "detailsW1": "",
-        "detailsW2": "",
-        "detailsH": "",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "P019",
-        "brand": "Puma",
-        "price": "21$",
-        "size": [
-            "S",
-            "M"
-        ],
-        "color": "black",
-        "composition": "100% хлопок",
-        "detailsW1": "",
-        "detailsW2": "",
-        "detailsH": "",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "P020",
         "brand": "Puma",
-        "price": "21$",
+        "price": "725",
         "size": [
             "M",
             "L"
         ],
         "color": "white",
         "composition": "100% хлопок",
-        "detailsW1": "",
-        "detailsW2": "",
-        "detailsH": "",
+        "detailsW1": "47-oversise/45",
+        "detailsW2": "54-oversise/54",
+        "detailsH": "73-oversise/72",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -1115,15 +1079,15 @@
     {
         "id": "P021",
         "brand": "Puma",
-        "price": "21$",
+        "price": "725",
         "size": [
             "L"
         ],
         "color": "black",
         "composition": "100% хлопок",
-        "detailsW1": "",
-        "detailsW2": "",
-        "detailsH": "",
+        "detailsW1": "47",
+        "detailsW2": "54",
+        "detailsH": "73",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -1133,15 +1097,15 @@
     {
         "id": "P022",
         "brand": "Puma",
-        "price": "21$",
+        "price": "725",
         "size": [
             "L"
         ],
         "color": "white",
         "composition": "100% хлопок",
-        "detailsW1": "",
-        "detailsW2": "",
-        "detailsH": "",
+        "detailsW1": "47",
+        "detailsW2": "54",
+        "detailsH": "73",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -1151,15 +1115,15 @@
     {
         "id": "P023",
         "brand": "Puma",
-        "price": "21$",
+        "price": "725",
         "size": [
             "S"
         ],
         "color": "white",
         "composition": "100% хлопок",
-        "detailsW1": "",
-        "detailsW2": "",
-        "detailsH": "",
+        "detailsW1": "43",
+        "detailsW2": "48",
+        "detailsH": "70",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -1169,15 +1133,15 @@
     {
         "id": "P024",
         "brand": "Puma",
-        "price": "21$",
+        "price": "725",
         "size": [
             "M"
         ],
         "color": "black",
         "composition": "100% хлопок",
-        "detailsW1": "",
-        "detailsW2": "",
-        "detailsH": "",
+        "detailsW1": "44",
+        "detailsW2": "50",
+        "detailsH": "72",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
