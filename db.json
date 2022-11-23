@@ -1,16 +1,124 @@
 [
     {
-        "id": "C041",
-        "brand": "Calvin Klein",
-        "price": 975,
+        "id": "T001",
+        "brand": "Tommy Hilfiger",
+        "price": 925,
+        "size": [
+            "L"
+        ],
+        "color": "grey",
+        "composition": "100% хлопок",
+        "detailsW1": "48",
+        "detailsW2": "57",
+        "detailsH": "67",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "T002",
+        "brand": "Tommy Hilfiger",
+        "price": 1250,
+        "size": [
+            "S", "M", "L"
+        ],
+        "color": "black",
+        "composition": "100% хлопок",
+        "detailsW1": "42/44/47",
+        "detailsW2": "50/51/55",
+        "detailsH": "68/71/74",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "T003",
+        "brand": "Tommy Hilfiger",
+        "price": 1250,
+        "size": [
+            "L"
+        ],
+        "color": "blue",
+        "composition": "100% хлопок",
+        "detailsW1": "47",
+        "detailsW2": "55",
+        "detailsH": "74",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "T004",
+        "brand": "Tommy Hilfiger",
+        "price": 1250,
+        "size": [
+            "S", "M"
+        ],
+        "color": "blue",
+        "composition": "100% хлопок",
+        "detailsW1": "42/44",
+        "detailsW2": "49/51",
+        "detailsH": "68/71",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "T005",
+        "brand": "Tommy Hilfiger",
+        "price": 1350,
+        "size": [
+            "L"
+        ],
+        "color": "blue",
+        "composition": "100% хлопок",
+        "detailsW1": "48",
+        "detailsW2": "56",
+        "detailsH": "73",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "T006",
+        "brand": "Tommy Hilfiger",
+        "price": 1350,
+        "size": [
+            "M"
+        ],
+        "color": "white",
+        "composition": "100% хлопок",
+        "detailsW1": "44",
+        "detailsW2": "51",
+        "detailsH": "72",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "T007",
+        "brand": "Tommy Hilfiger",
+        "price": 1350,
         "size": [
             "S"
         ],
         "color": "black",
         "composition": "100% хлопок",
-        "detailsW1": "43",
+        "detailsW1": "41",
         "detailsW2": "48",
-        "detailsH": "69",
+        "detailsH": "68",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -118,14 +226,13 @@
         "price": 1075,
         "size": [
             "S",
-            "M",
             "L"
         ],
         "color": "black",
         "composition": "100% хлопок",
-        "detailsW1": "42/44/48",
-        "detailsW2": "48/53/55",
-        "detailsH": "70/71/73",
+        "detailsW1": "42/48",
+        "detailsW2": "48/55",
+        "detailsH": "70/73",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -153,7 +260,7 @@
     {
         "id": "J055",
         "brand": "Jack Jones",
-        "price": 375,
+        "price": 425,
         "size": [
             "S"
         ],
@@ -192,14 +299,13 @@
         "brand": "Levis",
         "price": 825,
         "size": [
-            "M",
-            "L"
+            "M"
         ],
         "color": "white",
         "composition": "100% хлопок",
-        "detailsW1": "45/47",
-        "detailsW2": "53/59",
-        "detailsH": "70/71",
+        "detailsW1": "45",
+        "detailsW2": "53",
+        "detailsH": "70",
         "date": "01/04/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -246,7 +352,7 @@
     {
         "id": "C038",
         "brand": "Calvin Klein",
-        "price": 975,
+        "price": 925,
         "size": [
             "L"
         ],
@@ -264,7 +370,7 @@
     {
         "id": "C011",
         "brand": "Calvin Klein",
-        "price": 825,
+        "price": 925,
         "size": [
              "S"
         ],
@@ -282,7 +388,7 @@
     {
         "id": "C013",
         "brand": "Calvin Klein",
-        "price": 825,
+        "price": 925,
         "size": [
              "M"
         ],
@@ -318,7 +424,7 @@
     {
         "id": "C022",
         "brand": "Calvin Klein",
-        "price": 985,
+        "price": 975,
         "size": [
             "L"
         ],
@@ -336,7 +442,7 @@
     {
         "id": "C024",
         "brand": "Calvin Klein",
-        "price": 850,
+        "price": 925,
         "size": [
              "M"
         ],
@@ -390,7 +496,7 @@
     {
         "id": "C040",
         "brand": "Calvin Klein",
-        "price": 875,
+        "price": 925,
         "size": [
              "S"
         ],
@@ -408,7 +514,7 @@
     {
         "id": "C050",
         "brand": "Calvin Klein",
-        "price": 875,
+        "price": 925,
         "size": [
              "L"
         ],
@@ -426,7 +532,7 @@
     {
         "id": "L011",
         "brand": "Levis",
-        "price": 750,
+        "price": 775,
         "size": [
             "S"
         ],
@@ -444,7 +550,7 @@
     {
         "id": "L013",
         "brand": "Levis",
-        "price": 750,
+        "price": 825,
         "size": [
             "L"
         ],
@@ -462,7 +568,7 @@
     {
         "id": "J053",
         "brand": "Jack Jones",
-        "price": 425,
+        "price": 450,
         "size": [
             "L"
         ],
@@ -480,7 +586,7 @@
     {
         "id": "J051",
         "brand": "Jack Jones",
-        "price": 425,
+        "price": 450,
         "size": [
             "S",
             "M",
@@ -500,7 +606,7 @@
     {
         "id": "J049",
         "brand": "Jack Jones",
-        "price": 425,
+        "price": 450,
         "size": [
             "M"
         ],
@@ -518,7 +624,7 @@
     {
         "id": "J031",
         "brand": "Jack Jones",
-        "price": 350,
+        "price": 400,
         "size": [
              "M"
         ],
@@ -536,7 +642,7 @@
     {
         "id": "J046",
         "brand": "Jack Jones",
-        "price": 425,
+        "price": 450,
         "size": [
              "S"
         ],
@@ -554,7 +660,7 @@
     {
         "id": "J047",
         "brand": "Jack Jones",
-        "price": 425,
+        "price": 450,
         "size": [
             "S"
         ],
@@ -572,7 +678,7 @@
     {
         "id": "P003",
         "brand": "Puma",
-        "price": 575,
+        "price": 625,
         "size": [
             "S"
         ],
@@ -590,7 +696,7 @@
     {
         "id": "P007",
         "brand": "Puma",
-        "price": 545,
+        "price": 625,
         "size": [
             "L"
         ],
@@ -608,7 +714,7 @@
     {
         "id": "P012",
         "brand": "Puma",
-        "price": 575,
+        "price": 625,
         "size": [
             "M"
         ],
@@ -644,7 +750,7 @@
     {
         "id": "L003",
         "brand": "Levis",
-        "price": 1250,
+        "price": 1350,
         "size": [
             "S"
         ],
@@ -662,7 +768,7 @@
     {
         "id": "L004",
         "brand": "Levis",
-        "price": 750,
+        "price": 825,
         "size": [
             "S"
         ],
@@ -671,24 +777,6 @@
         "detailsW1": "41",
         "detailsW2": "48",
         "detailsH": "68",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "L007",
-        "brand": "Levis",
-        "price": 715,
-        "size": [
-            "L"
-        ],
-        "color": "blue",
-        "composition": "100% хлопок",
-        "detailsW1": "46",
-        "detailsW2": "55",
-        "detailsH": "74",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -736,7 +824,7 @@
     {
         "id": "J039",
         "brand": "Jack Jones",
-        "price": 375,
+        "price": 425,
         "size": [
             "S"
         ],
@@ -754,7 +842,7 @@
     {
         "id": "J038",
         "brand": "Jack Jones",
-        "price": 350,
+        "price": 400,
         "size": [
             "M"
         ],
@@ -790,7 +878,7 @@
     {
         "id": "J040",
         "brand": "Jack Jones",
-        "price": 375,
+        "price": 400,
         "size": [
             "S"
         ],
@@ -808,7 +896,7 @@
     {
         "id": "J037",
         "brand": "Jack Jones",
-        "price": 350,
+        "price": 400,
         "size": [
             "M"
         ],
@@ -826,7 +914,7 @@
     {
         "id": "J035",
         "brand": "Jack Jones",
-        "price": 350,
+        "price": 400,
         "size": [
             "M"
         ],
@@ -844,7 +932,7 @@
     {
         "id": "J034",
         "brand": "Jack Jones",
-        "price": 425,
+        "price": 400,
         "size": [
             "M"
         ],
@@ -862,7 +950,7 @@
     {
         "id": "J032",
         "brand": "Jack Jones",
-        "price": 350,
+        "price": 400,
         "size": [
             "M"
         ],
@@ -880,7 +968,7 @@
     {
         "id": "J029",
         "brand": "Jack Jones",
-        "price": 425,
+        "price": 450,
         "size": [
             "M"
         ],
@@ -898,7 +986,7 @@
     {
         "id": "J025",
         "brand": "Jack Jones",
-        "price": 300,
+        "price": 425,
         "size": [
             "S"
         ],
@@ -916,7 +1004,7 @@
     {
         "id": "J024",
         "brand": "Jack Jones",
-        "price": 300,
+        "price": 350,
         "size": [
             "S"
         ],
@@ -934,7 +1022,7 @@
     {
         "id": "J022",
         "brand": "Jack Jones",
-        "price": 350,
+        "price": 400,
         "size": [
             "S"
         ],
@@ -943,42 +1031,6 @@
         "detailsW1": "42",
         "detailsW2": "47",
         "detailsH": "68",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "J017",
-        "brand": "Jack Jones",
-        "price": 350,
-        "size": [
-            "S"
-        ],
-        "color": "orange",
-        "composition": "100% хлопок",
-        "detailsW1": "42",
-        "detailsW2": "48",
-        "detailsH": "67",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
-        "id": "J016",
-        "brand": "Jack Jones",
-        "price": 350,
-        "size": [
-            "M"
-        ],
-        "color": "grey",
-        "composition": "100% хлопок",
-        "detailsW1": "44",
-        "detailsW2": "51",
-        "detailsH": "70",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
@@ -1006,7 +1058,7 @@
     {
         "id": "J010",
         "brand": "Jack Jones",
-        "price": 350,
+        "price": 400,
         "size": [
             "S"
         ],
@@ -1024,7 +1076,7 @@
     {
         "id": "J009",
         "brand": "Jack Jones",
-        "price": 400,
+        "price": 450,
         "size": [
             "S"
         ],
@@ -1042,7 +1094,7 @@
     {
         "id": "J003",
         "brand": "Jack Jones",
-        "price": 375,
+        "price": 400,
         "size": [
             "S"
         ],
@@ -1077,27 +1129,9 @@
         "skills": ""
     },
     {
-        "id": "P021",
-        "brand": "Puma",
-        "price": "725",
-        "size": [
-            "L"
-        ],
-        "color": "black",
-        "composition": "100% хлопок",
-        "detailsW1": "47",
-        "detailsW2": "54",
-        "detailsH": "73",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "P022",
         "brand": "Puma",
-        "price": "725",
+        "price": "675",
         "size": [
             "L"
         ],
@@ -1115,7 +1149,7 @@
     {
         "id": "P023",
         "brand": "Puma",
-        "price": "725",
+        "price": "675",
         "size": [
             "S"
         ],
@@ -1133,7 +1167,7 @@
     {
         "id": "P024",
         "brand": "Puma",
-        "price": "725",
+        "price": "675",
         "size": [
             "M"
         ],
