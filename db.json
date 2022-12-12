@@ -1,23 +1,5 @@
 [
     {
-        "id": "T001",
-        "brand": "Tommy Hilfiger",
-        "price": 925,
-        "size": [
-            "L"
-        ],
-        "color": "grey",
-        "composition": "100% хлопок",
-        "detailsW1": "48",
-        "detailsW2": "57",
-        "detailsH": "67",
-        "date": "30/03/2022",
-        "employer": "HFLabs",
-        "country": "calvin klein",
-        "employment": "",
-        "skills": ""
-    },
-    {
         "id": "T002",
         "brand": "Tommy Hilfiger",
         "price": 1250,
@@ -469,6 +451,24 @@
         "detailsW1": "49",
         "detailsW2": "56",
         "detailsH": "72",
+        "date": "30/03/2022",
+        "employer": "HFLabs",
+        "country": "calvin klein",
+        "employment": "",
+        "skills": ""
+    },
+    {
+        "id": "T001",
+        "brand": "Tommy Hilfiger",
+        "price": 925,
+        "size": [
+            "L"
+        ],
+        "color": "grey",
+        "composition": "100% хлопок",
+        "detailsW1": "48",
+        "detailsW2": "57",
+        "detailsH": "67",
         "date": "30/03/2022",
         "employer": "HFLabs",
         "country": "calvin klein",
