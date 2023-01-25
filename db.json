@@ -176,7 +176,7 @@
     {
         "id": "G002",
         "brand": "Guess",
-        "price": 825,
+        "price": 850,
         "size": [
             "S"
         ],
@@ -206,57 +206,13 @@
         "brand": "Levis",
         "price": 825,
         "size": [
-            "S",
-            "L"
+            "S"
         ],
         "color": "white",
         "composition": "100% хлопок",
-        "detailsW1": "44/45/47",
-        "detailsW2": "50/53/57",
-        "detailsH": "70/71/71",
-        "date": "01/12/2022"
-    },
-    {
-        "id": "L016",
-        "brand": "Levis",
-        "price": 825,
-        "size": [
-            "M"
-        ],
-        "color": "white",
-        "composition": "100% хлопок",
-        "detailsW1": "45",
-        "detailsW2": "53",
+        "detailsW1": "44",
+        "detailsW2": "50",
         "detailsH": "70",
-        "date": "01/12/2022"
-    },
-    {
-        "id": "C033",
-        "brand": "Calvin Klein",
-        "price": 925,
-        "size": [
-            "M"
-        ],
-        "color": "white",
-        "composition": "100% хлопок",
-        "detailsW1": "46",
-        "detailsW2": "52",
-        "detailsH": "73",
-        "date": "01/12/2022"
-    },
-    {
-        "id": "C034",
-        "brand": "Calvin Klein",
-        "price": 825,
-        "size": [
-            "S",
-            "M"
-        ],
-        "color": "white",
-        "composition": "100% хлопок",
-        "detailsW1": "45/46",
-        "detailsW2": "50/53",
-        "detailsH": "69/72",
         "date": "01/12/2022"
     },
     {
@@ -313,20 +269,6 @@
         "detailsW1": "41",
         "detailsW2": "46",
         "detailsH": "68",
-        "date": "01/12/2022"
-    },
-    {
-        "id": "C022",
-        "brand": "Calvin Klein",
-        "price": 975,
-        "size": [
-            "L"
-        ],
-        "color": "white",
-        "composition": "100% хлопок",
-        "detailsW1": "47",
-        "detailsW2": "55",
-        "detailsH": "72",
         "date": "01/12/2022"
     },
     {
@@ -630,15 +572,14 @@
         "brand": "Levis",
         "price": 825,
         "size": [
-            "S",
             "M",
             "L"
         ],
         "color": "blue",
         "composition": "100% хлопок",
-        "detailsW1": "41/42/44",
-        "detailsW2": "47/49/55",
-        "detailsH": "69/70/70",
+        "detailsW1": "42/44",
+        "detailsW2": "49/55",
+        "detailsH": "70/70",
         "date": "01/12/2022"
     },
     {
